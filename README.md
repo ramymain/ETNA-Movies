@@ -1,5 +1,5 @@
 # ETNA-Movies
-(Un projet parmis d'autre en première année de prépa)
+(Un projet parmi d'autres en première année de prépa)
 
 ## Files List
 
